@@ -1,7 +1,7 @@
-## Sirice's Blog
-Welcome to my blog!
+## Sirice's WebSite
+Welcome to my WebSite!
 
-Please click [https://siricee.github.io/](https://siricee.github.io/) to enter the site.
+Please click [https://tongweiren.github.io/](https://tongweiren.github.io/) to enter the site.
 
 Powered by [Hexo](https://hexo.io/) Theme [Chic](https://github.com/Siricee/hexo-theme-Chic) designed by Sirice.
 
